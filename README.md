@@ -18,4 +18,4 @@ Click on the Image below for a detailed Youtube video
 <br>
 
 
-<p style="font-size:0.1em;"><small>Thanks to hash include electronics for his video Line Follower Robot using Arduino🔥</small></p>
+<p style="font-size:0.1em;"><sub><sup><small>Thanks to hash include electronics for his video Line Follower Robot using Arduino🔥</small></sup></sub></p>
