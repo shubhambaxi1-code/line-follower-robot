@@ -8,3 +8,6 @@ Click on the Image below for a detailed Youtube video
 </a>
 
 <img width="602" height="423" alt="Screenshot 2026-07-18 231243" src="https://github.com/user-attachments/assets/d69d340d-f8d8-4f63-85ed-62e381dddeaa" />
+
+<small>Thanks to <a href="https://www.youtube.com/@hashincludeelectronics" target="_blank">hash include electronics</a> for his video <a href="https://www.youtube.com/watch?v=5jh-5HGvC-I&t=197s" target="_blank">
+Line Follower Robot using Arduino🔥</a></small>
