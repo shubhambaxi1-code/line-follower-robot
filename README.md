@@ -1,7 +1,10 @@
 # 🤖 Line Following Robot using Arduino
 This project is on a 2-wheeled line following robot following a black line on a white background using an Arduino Uno as the Micro controller and IR Sensors as mediums for checking the status of the robot
 ## 📸 Project Preview
-![Robot Image](https://github.com/shubhambaxi1-code/line-follower-robot/blob/main/Robot%20Closeup)
+[![Robot Image](https://github.com/shubhambaxi1-code/line-follower-robot/blob/main/Robot%20Closeup)](https://www.youtube.com/watch?v=MyOQUESpWe8)
+
+
+You can watch the demo and explanation on [my channel](https://www.youtube.com/@SBBuildsStuff). For the video, click [here](https://www.youtube.com/watch?v=MyOQUESpWe8)
 ## 🧰 Components Used
 These are the [List of Materials](https://github.com/shubhambaxi1-code/line-follower-robot/blob/main/List%20of%20materials%20used.xlsx) used to build this robot:
 |Product|Quantity|
@@ -70,26 +73,28 @@ Below are the problems faced by me and the solution to them
 |Robot keeps running off track|Lower speed of robot and check IR sensors|
 |Robot not moving fast enough despite code putting 180+ speed|Recharge the Batteries|
 |Robot stops in the middle of track|Make sure both IR sensors work and IR sensors are not directed directly on the line in a 90 degree angle|
+|Robot's wheel moving in opposite direction|Make sure that the polarity of the motors is correct by switching the wires from e.g OUT1 to OUT2 and OUT2 to OUT1|
 
 
 ## 📚 What I Learned
 
 I learned to
--Use L289N Motor Driver Sheild
--Use Motors
--Build a Chassis
--Solder
+
+- Use L289N Motor Driver Sheild
+- Use Motors
+- Build a Chassis
+- Solder
 
 ## 🔮 Future Improvements
 
 Later on in the future, I can:
--Add PID control
--Make the robot 4 wheeled
--Combine line following abilities with object avoidance
--Use an array of IR sensors
--Try colour sensors
--Add 3D printed mounts
--Source Better Materials
+- Add PID control
+- Make the robot 4 wheeled
+- Combine line following abilities with object avoidance
+- Use an array of IR sensors
+- Try colour sensors
+- Add 3D printed mounts
+- Source Better Materials
 
 ## 🙏 Credits / Inspiration
 I'd like to thank [hash include electronics](https://www.youtube.com/@hashincludeelectronics) for his video [Line Follower Robot using Arduino🔥](https://www.youtube.com/watch?v=5jh-5HGvC-I&t=197s), from which this project was inspired and built upon
