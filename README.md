@@ -51,7 +51,7 @@ All of these materials are available on [Robocraze](https://robocraze.com/) and 
 
 ## 🧠 How It Works
 
-The Arduino Uno keeps checking the IR sensors. Based on these inputs, it drives the robot
+The Arduino Uno keeps checking the IR sensors in [code.ino](https://github.com/shubhambaxi1-code/line-follower-robot/blob/main/code.ino). Based on these inputs, it drives the robot
 |Left IR|Right IR|Movement|
 |---|---|---|
 |White|White|Forward|
